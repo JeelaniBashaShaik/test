@@ -1,1 +1,1 @@
-testing test-dev file
+const str = "testing test-dev file";
