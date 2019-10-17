@@ -1,4 +1,4 @@
-const func12 = () => {
+const jay = () => {
     return ;
 }
 const abc = 'gowsigan';
