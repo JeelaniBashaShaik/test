@@ -1,4 +1,3 @@
-const arr = ['a','b','c'];
 const jay = () => {
     return ;
 }
