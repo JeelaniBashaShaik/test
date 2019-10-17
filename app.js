@@ -1,1 +1,4 @@
-const abc = 'Dennis';
+const func = () => {
+    return ;
+}
+const abc = 'gowsigan';
