@@ -1,3 +1,3 @@
-const str = "testing dev file";
-const arr = [1,2,3,6,4,5];
-const num = 9876;
+const str = "testing test-dev1";
+const arr = ['a','b','c'];
+const num = 12345;
